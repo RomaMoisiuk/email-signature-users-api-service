@@ -1,6 +1,6 @@
 ## Description
 
-Signatures microservice
+Users microservice
 
 ## Installation
 
